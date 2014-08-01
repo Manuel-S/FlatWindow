@@ -29,3 +29,10 @@ Add Brushes with the Keys "WindowBackground" and "CaptionColor" to your window r
 <SolidColorBrush x:Key="WindowBackground" Color="Black" />
 <SolidColorBrush x:Key="CaptionColor" Color="White" />
 ```
+
+
+**Credit:**
+
+* WPF Shell Integration Library
+* [BorderLess Window](http://wpfborderless.codeplex.com/)
+* Some other article I can't find anymore
