@@ -2,11 +2,7 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:simply="clr-namespace:Simply;assembly=FlatWindow"
-        Title="MainWindow" Height="350" Width="525">
-	<simply:FlatWindow.Resources>
-		<SolidColorBrush x:Key="WindowBackground" Color="Black" />
-		<SolidColorBrush x:Key="CaptionColor" Color="White" />
-	</simply:FlatWindow.Resources>
+        Title="My Flat Window" Height="250" Width="450">
 	<Grid>
 		<TextBlock Text="Here goes the content!"/>
 	</Grid>
