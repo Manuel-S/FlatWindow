@@ -19,7 +19,7 @@ A reusable, simple flat window control for WPF
 
 **Screenshot:**
 
-![screenshot][screenshot.png]
+![screenshot](screenshot.png)
 
 
 **Customize:**
