@@ -28,4 +28,4 @@ Add Brushes with the Keys "WindowBackground" and "CaptionColor" to your window r
 ```xml
 <SolidColorBrush x:Key="WindowBackground" Color="Black" />
 <SolidColorBrush x:Key="CaptionColor" Color="White" />
-```xml
+```
