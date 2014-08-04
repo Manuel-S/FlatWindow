@@ -1,0 +1,9 @@
+﻿<simply:FlatWindow x:Class="NuGetTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:simply="clr-namespace:Simply;assembly=FlatWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        
+    </Grid>
+</simply:FlatWindow>
