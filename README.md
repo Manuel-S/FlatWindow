@@ -48,9 +48,9 @@ Add Brushes with the Keys "WindowBackground" and "CaptionColor" to your window r
 
 **Credit:**
 
-* WPF Shell Integration Library
-* [BorderLess Window](http://wpfborderless.codeplex.com/)
-* Some other article I can't find anymore
+* The guys at Microsoft for their WPF Shell Integration Library, especially LesterLobo for his [Article](http://blogs.msdn.com/b/llobo/archive/2010/05/10/wpf-shell-integration-library.aspx)
+* Silberfab: [BorderLess Window](http://wpfborderless.codeplex.com/) on CodePlex
+* Magnus Montin: [Article](http://blog.magnusmontin.net/2013/03/16/how-to-create-a-custom-window-in-wpf/) on his blog
 
 <script type="text/javascript">
     (function () {
