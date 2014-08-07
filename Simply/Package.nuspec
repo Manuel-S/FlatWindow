@@ -8,8 +8,8 @@
         <projectUrl>https://github.com/Manuel-S/FlatWindow</projectUrl>
         <iconUrl>https://raw.githubusercontent.com/Manuel-S/FlatWindow/master/screenshot.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-		 <description>Just a simple flat, borderless WPF window with all expected behavior.</description>
-		 <releaseNotes>Initial Version</releaseNotes>
+        <description>Just a simple flat, borderless WPF window with all expected behavior.</description>
+        <releaseNotes>Initial Version</releaseNotes>
         <copyright>Copyright 2014</copyright>
         <tags>Flat Borderless Window WPF XAML</tags>
     </metadata>

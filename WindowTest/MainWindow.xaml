@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:simply="clr-namespace:Simply;assembly=FlatWindow"
         Title="My Flat Window" Height="250" Width="450">
-	<Grid>
-		<TextBlock Text="Here goes the content!"/>
-	</Grid>
+    <Grid>
+        <TextBlock Text="Here goes the content!"/>
+    </Grid>
 </simply:FlatWindow>

@@ -4,6 +4,6 @@
         xmlns:simply="clr-namespace:Simply;assembly=FlatWindow"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+
     </Grid>
 </simply:FlatWindow>
