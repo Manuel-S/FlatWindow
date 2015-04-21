@@ -7,6 +7,11 @@
         <ControlTemplate.Resources>
             <SolidColorBrush x:Key="WindowBackground" Color="White" />
             <SolidColorBrush x:Key="CaptionColor" Color="Black" />
+			<Style x:Key="CaptionStyle" TargetType="TextBlock">
+				<Setter Property="FontSize" Value="12"/>
+				<Setter Property="HorizontalAlignment" Value="Center"/>
+				<Setter Property="VerticalAlignment" Value="Bottom"/>
+			</Style>
         </ControlTemplate.Resources>
         <AdornerDecorator>
             <Border Background="{DynamicResource WindowBackground}">
@@ -18,8 +23,8 @@
                     </Grid.RowDefinitions>
 
 
-                    <TextBlock Grid.Row="0" Text="{Binding Path=Title, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Window}}}"
-									HorizontalAlignment="Center"	VerticalAlignment="Bottom"	 FontSize="12" Foreground="{DynamicResource CaptionColor}"></TextBlock>
+                    <TextBlock Style="{DynamicResource CaptionStyle}" Grid.Row="0" Text="{Binding Path=Title, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Window}}}"
+									Foreground="{DynamicResource CaptionColor}"></TextBlock>
 
                     <!-- Captions Buttons to control the window borderless-->
                     <simply:ChromeButtons Margin="0,0,2,0" Grid.Row="0" HorizontalAlignment="Right" Type="Full"
