@@ -2,15 +2,15 @@
 <package >
     <metadata>
         <id>FlatWindow</id>
-        <version>0.1.0</version>
+        <version>0.1.1</version>
         <authors>Manuel Schweigert</authors>
         <owners>Manuel Schweigert</owners>
         <projectUrl>https://github.com/Manuel-S/FlatWindow</projectUrl>
         <iconUrl>https://raw.githubusercontent.com/Manuel-S/FlatWindow/master/screenshot.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Just a simple flat, borderless WPF window with all expected behavior.</description>
-        <releaseNotes>Initial Version</releaseNotes>
-        <copyright>Copyright 2014</copyright>
+        <releaseNotes>Added a key for the caption style.</releaseNotes>
+        <copyright>Copyright 2015</copyright>
         <tags>Flat Borderless Window WPF XAML</tags>
     </metadata>
     <files>
