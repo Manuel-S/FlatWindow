@@ -43,6 +43,11 @@ Add Brushes with the Keys "WindowBackground" and "CaptionColor" to your window r
 ```xml
 <SolidColorBrush x:Key="WindowBackground" Color="Black" />
 <SolidColorBrush x:Key="CaptionColor" Color="White" />
+<Style x:Key="CaptionStyle" TargetType="TextBlock">
+    <Setter Property="FontSize" Value="12"/>
+    <Setter Property="HorizontalAlignment" Value="Center"/>
+    <Setter Property="VerticalAlignment" Value="Bottom"/>
+</Style>
 ```
 
 
